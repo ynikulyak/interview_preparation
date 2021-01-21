@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c3aac75-e2b2-4c99-9ae0-761d60906ca3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/RunningSumOf1DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/RunningSumOf1DArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/SortArrayByParity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/SortArrayByParityTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/MoveZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/MoveZeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/RemoveElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/SearchInsertPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/SearchInsertPosition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/SquaresOfSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/SquaresOfSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/ValidPalindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +25,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nBKgDRHAAJGhI4ieg746dTn8AS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -47,7 +42,7 @@
       <recent name="com.interview_preparation.basics" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RunningSumOf1DArrayTest.testRunningSum">
+  <component name="RunManager" selected="JUnit.SortArrayByParityTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -58,30 +53,16 @@
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
+    <configuration name="SortArrayByParity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.SortArrayByParity" />
+      <module name="interview_preparation" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveZeroesTest.testMoveZeroes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="interview_preparation" />
-      <option name="PACKAGE_NAME" value="com.interview_preparation.basics" />
-      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.MoveZeroesTest" />
-      <option name="METHOD_NAME" value="testMoveZeroes" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReserseStringTest.testReverseString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="interview_preparation" />
-      <option name="PACKAGE_NAME" value="com.interview_preparation.basics" />
-      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.ReserseStringTest" />
-      <option name="METHOD_NAME" value="testReverseString" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,11 +78,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInsertionPositionTest.testSearchInsertionPosition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SortArrayByParityTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="interview_preparation" />
       <option name="PACKAGE_NAME" value="com.interview_preparation.basics" />
-      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.SearchInsertionPositionTest" />
-      <option name="METHOD_NAME" value="testSearchInsertionPosition" />
+      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.SortArrayByParityTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortArrayByParityTest.testSortArrayByParity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interview_preparation" />
+      <option name="PACKAGE_NAME" value="com.interview_preparation.basics" />
+      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.SortArrayByParityTest" />
+      <option name="METHOD_NAME" value="testSortArrayByParity" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -137,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SortArrayByParityTest" />
+        <item itemvalue="Application.SortArrayByParity" />
+        <item itemvalue="JUnit.SortArrayByParityTest.testSortArrayByParity" />
         <item itemvalue="JUnit.RunningSumOf1DArrayTest.testRunningSum" />
         <item itemvalue="JUnit.SquaresOfSortedArrayTest.testSquaresOfSortedArray" />
-        <item itemvalue="JUnit.SearchInsertionPositionTest.testSearchInsertionPosition" />
-        <item itemvalue="JUnit.ReserseStringTest.testReverseString" />
-        <item itemvalue="JUnit.MoveZeroesTest.testMoveZeroes" />
       </list>
     </recent_temporary>
   </component>
