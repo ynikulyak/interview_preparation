@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c3aac75-e2b2-4c99-9ae0-761d60906ca3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/SortArrayByParity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/SortArrayByParityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/RichestCustomerWealth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/RichestCustomerWealthTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
       <recent name="com.interview_preparation.basics" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SortArrayByParityTest">
+  <component name="RunManager" selected="JUnit.RichestCustomerWealthTest.testMaxWealth">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -63,6 +63,17 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RichestCustomerWealthTest.testMaxWealth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interview_preparation" />
+      <option name="PACKAGE_NAME" value="com.interview_preparation.basics" />
+      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.RichestCustomerWealthTest" />
+      <option name="METHOD_NAME" value="testMaxWealth" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,17 +110,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquaresOfSortedArrayTest.testSquaresOfSortedArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="interview_preparation" />
-      <option name="PACKAGE_NAME" value="com.interview_preparation.basics" />
-      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.SquaresOfSortedArrayTest" />
-      <option name="METHOD_NAME" value="testSquaresOfSortedArray" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RichestCustomerWealthTest.testMaxWealth" />
         <item itemvalue="JUnit.SortArrayByParityTest" />
         <item itemvalue="Application.SortArrayByParity" />
         <item itemvalue="JUnit.SortArrayByParityTest.testSortArrayByParity" />
         <item itemvalue="JUnit.RunningSumOf1DArrayTest.testRunningSum" />
-        <item itemvalue="JUnit.SquaresOfSortedArrayTest.testSquaresOfSortedArray" />
       </list>
     </recent_temporary>
   </component>
