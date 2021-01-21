@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c3aac75-e2b2-4c99-9ae0-761d60906ca3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/SearchInsertPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/SearchInsertionPositionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/SquaresOfSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/SquaresOfSortedArrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
       <recent name="com.interview_preparation.basics" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SearchInsertionPositionTest.testSearchInsertionPosition">
+  <component name="RunManager" selected="JUnit.SquaresOfSortedArrayTest.testSquaresOfSortedArray">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -50,14 +50,6 @@
     </configuration>
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-    </configuration>
-    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.RemoveElement" />
-      <module name="interview_preparation" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -98,6 +90,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SquaresOfSortedArrayTest.testSquaresOfSortedArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interview_preparation" />
+      <option name="PACKAGE_NAME" value="com.interview_preparation.basics" />
+      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.SquaresOfSortedArrayTest" />
+      <option name="METHOD_NAME" value="testSquaresOfSortedArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ValidPalindromeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="interview_preparation" />
       <option name="PACKAGE_NAME" value="com.interview_preparation.basics" />
@@ -126,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SquaresOfSortedArrayTest.testSquaresOfSortedArray" />
         <item itemvalue="JUnit.SearchInsertionPositionTest.testSearchInsertionPosition" />
         <item itemvalue="JUnit.ReserseStringTest.testReverseString" />
         <item itemvalue="JUnit.MoveZeroesTest.testMoveZeroes" />
         <item itemvalue="JUnit.ValidPalindromeTest" />
-        <item itemvalue="Application.RemoveElement" />
       </list>
     </recent_temporary>
   </component>
