@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c3aac75-e2b2-4c99-9ae0-761d60906ca3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/RichestCustomerWealth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/RichestCustomerWealthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/NumberOfGoodPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/NumberOfGoodPairsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
       <recent name="com.interview_preparation.basics" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RichestCustomerWealthTest.testMaxWealth">
+  <component name="RunManager" selected="JUnit.NumberOfGoodPairsTest.testNumberOfGoodPairs">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -52,6 +52,14 @@
     </configuration>
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="NumberOfGoodPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.NumberOfGoodPairs" />
+      <module name="interview_preparation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="SortArrayByParity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.SortArrayByParity" />
@@ -67,6 +75,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumberOfGoodPairsTest.testNumberOfGoodPairs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interview_preparation" />
+      <option name="PACKAGE_NAME" value="com.interview_preparation.basics" />
+      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.NumberOfGoodPairsTest" />
+      <option name="METHOD_NAME" value="testNumberOfGoodPairs" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RichestCustomerWealthTest.testMaxWealth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="interview_preparation" />
       <option name="PACKAGE_NAME" value="com.interview_preparation.basics" />
@@ -78,33 +97,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunningSumOf1DArrayTest.testRunningSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="interview_preparation" />
-      <option name="PACKAGE_NAME" value="com.interview_preparation.basics" />
-      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.RunningSumOf1DArrayTest" />
-      <option name="METHOD_NAME" value="testRunningSum" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SortArrayByParityTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="interview_preparation" />
       <option name="PACKAGE_NAME" value="com.interview_preparation.basics" />
       <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.SortArrayByParityTest" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortArrayByParityTest.testSortArrayByParity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="interview_preparation" />
-      <option name="PACKAGE_NAME" value="com.interview_preparation.basics" />
-      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.SortArrayByParityTest" />
-      <option name="METHOD_NAME" value="testSortArrayByParity" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -128,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NumberOfGoodPairsTest.testNumberOfGoodPairs" />
+        <item itemvalue="Application.SortArrayByParity" />
+        <item itemvalue="Application.NumberOfGoodPairs" />
         <item itemvalue="JUnit.RichestCustomerWealthTest.testMaxWealth" />
         <item itemvalue="JUnit.SortArrayByParityTest" />
-        <item itemvalue="Application.SortArrayByParity" />
-        <item itemvalue="JUnit.SortArrayByParityTest.testSortArrayByParity" />
-        <item itemvalue="JUnit.RunningSumOf1DArrayTest.testRunningSum" />
       </list>
     </recent_temporary>
   </component>
