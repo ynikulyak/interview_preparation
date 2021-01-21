@@ -12,6 +12,9 @@ public class ValidPalindrome {
      *
      * @param s string to determine if it's a palindrome
      * @return true if palindrome, false if not
+     *
+     * Time complexity: O(n)
+     * Space complexity: O(1)
      */
     public static boolean isValidPalindrome(String s){
         //empty string is a valid palindrome

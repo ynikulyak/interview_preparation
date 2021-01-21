@@ -13,6 +13,9 @@ public class RemoveElement {
      * @param nums
      * @param val
      * @return the length of new array
+     *
+     * Time complexity: O(n)
+     * Space complexity: O(1)
      */
     public static int removeElement(int[] nums, int val){
         if(nums.length == 0){
@@ -36,6 +39,9 @@ public class RemoveElement {
      * @param nums
      * @param val
      * @return the length of a new array, the order of elements doesn't matter.
+     *
+     * Time complexity: O(n)
+     * Space complexity: O(1)
      */
     public static int removeElementWithoutMovingElementsOneStepLeft(int[] nums, int val){
         if(nums.length == 0){

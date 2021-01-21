@@ -13,6 +13,9 @@ public class ReverseString {
      *
      * @param s The input string is given as an array of characters
      * @return new array in reversed order
+     *
+     * Time complexity: O(n)
+     * Space complexity: O(1)
      */
     public static char[] reverseString(char[] s){
         if(s.length < 2){

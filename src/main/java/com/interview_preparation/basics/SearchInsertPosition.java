@@ -12,6 +12,9 @@ public class SearchInsertPosition {
      * @param nums sorted in ascending order array of distinct integers
      * @param target number to find
      * @return an index of target if it exists in nums, or index where to insert it
+     *
+     * Time complexity: O(logn)
+     * Space complexity: O(1)
      */
     public static int searchPosition(int[] nums, int target){
         int start = 0;

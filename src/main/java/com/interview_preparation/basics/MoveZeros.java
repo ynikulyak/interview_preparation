@@ -13,6 +13,9 @@ public class MoveZeros {
      * Therefore,
      * @param nums array of numbers
      * @return array with all zero's at the end
+     *
+     * Time complexity: O(n)
+     * Space complexity: O(1)
      */
     public static int[] moveZeroes(int[] nums){
         if(nums.length < 2){

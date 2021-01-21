@@ -12,6 +12,9 @@ public class SquaresOfSortedArray {
      *
      * @param nums array sorted in non-decreasing order
      * @return new array of squares of each number, sorted in non-decreasing order
+     *
+     * Time complexity: O(n)
+     * Space complexity: O(n)
      */
     public static int[] squaresOfSortedArray(int[] nums){
         //new array to store result

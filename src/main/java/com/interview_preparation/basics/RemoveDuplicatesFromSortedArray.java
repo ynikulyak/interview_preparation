@@ -7,10 +7,13 @@ public class RemoveDuplicatesFromSortedArray {
 
     /**
      * Remove duplicates in sorted array in-place such that
-     *each elemnt appears only once.
+     * each element appears only once.
      *
      * @param  nums   sorted array of elements
      * @return        the length of array without duplicates
+     *
+     * Time complexity: O(n)
+     * Space complexity: O(1)
      */
     public static int removeDuplicates(int[] nums){
         if(nums.length == 0){
