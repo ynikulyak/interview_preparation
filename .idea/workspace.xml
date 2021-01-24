@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c3aac75-e2b2-4c99-9ae0-761d60906ca3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/DutchNationalFlag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/DutchNationalFlagTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/SumThreeIsZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/SumThreeIsZeroTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
       <recent name="com.interview_preparation.basics" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DutchNationalFlagTest.testSortColors">
+  <component name="RunManager" selected="JUnit.SumThreeIsZeroTest.testSum">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -100,11 +100,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RichestCustomerWealthTest.testMaxWealth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SumThreeIsZeroTest.testSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="interview_preparation" />
       <option name="PACKAGE_NAME" value="com.interview_preparation.basics" />
-      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.RichestCustomerWealthTest" />
-      <option name="METHOD_NAME" value="testMaxWealth" />
+      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.SumThreeIsZeroTest" />
+      <option name="METHOD_NAME" value="testSum" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SumThreeIsZeroTest.testSum" />
         <item itemvalue="JUnit.DutchNationalFlagTest.testSortColors" />
         <item itemvalue="JUnit.FibonacciTest.testGoldenRatio" />
         <item itemvalue="Application.NumberOfGoodPairs" />
         <item itemvalue="JUnit.NumberOfGoodPairsTest.testNumberOfGoodPairs" />
-        <item itemvalue="JUnit.RichestCustomerWealthTest.testMaxWealth" />
       </list>
     </recent_temporary>
   </component>
