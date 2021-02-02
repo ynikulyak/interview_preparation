@@ -1,4 +1,4 @@
-package com.interview_preparation.basics;
+package com.interview_preparation.basics.binary_search_problems;
 
 /**
  * Given a sorted (in ascending order) integer array nums of n elements and a target value,

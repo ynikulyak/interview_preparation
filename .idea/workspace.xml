@@ -5,9 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c3aac75-e2b2-4c99-9ae0-761d60906ca3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/EqualStacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/EqualStacksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/IntersectionOfTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/binary_search_problems/FindFirstAndLastPositionOfElementInSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/binary_search_problems/FindMinInRotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/binary_search_problems/FirstBadVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/binary_search_problems/GuessNumberHigherOrLower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/binary_search_problems/KthSmallestElementInSortedMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/binary_search_problems/Search2DMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/IntersectionOfTwoArraysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/binary_search_problems/FindFirstAndLastPositionOfElementInSortedArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/binary_search_problems/FindMinInRotatedSortedArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/binary_search_problems/GuessNumberHigherOrLowerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/binary_search_problems/KthSmallestElementInSortedMatrixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/binary_search_problems/Search2DMatrixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/binary_search_problems/SearchInRotatedSortedArrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/binary_search_problems/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/ValidPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/BinarySearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/binary_search_problems/BinarySearchTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +54,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.interview_preparation.basics.binary_search_problems" />
       <recent name="com.interview_preparation.basics" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.EqualStacksTest.testEqualStacks">
+  <component name="RunManager" selected="JUnit.IntersectionOfTwoArraysTest.testIntersection">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -53,6 +69,14 @@
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
+    <configuration name="ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.ValidPalindrome" />
+      <module name="interview_preparation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -61,8 +85,8 @@
     </configuration>
     <configuration name="BinarySearchTest.testFindIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="interview_preparation" />
-      <option name="PACKAGE_NAME" value="com.interview_preparation.basics" />
-      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.BinarySearchTest" />
+      <option name="PACKAGE_NAME" value="com.interview_preparation.basics.binary_search_problems" />
+      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.binary_search_problems.BinarySearchTest" />
       <option name="METHOD_NAME" value="testFindIndex" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -92,22 +116,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeSumClosestTest.testClosestSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IntersectionOfTwoArraysTest.testIntersection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="interview_preparation" />
       <option name="PACKAGE_NAME" value="com.interview_preparation.basics" />
-      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.ThreeSumClosestTest" />
-      <option name="METHOD_NAME" value="testClosestSum" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidMountainArrayTest.testValidMountainArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="interview_preparation" />
-      <option name="PACKAGE_NAME" value="com.interview_preparation.basics" />
-      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.ValidMountainArrayTest" />
-      <option name="METHOD_NAME" value="testValidMountainArray" />
+      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.IntersectionOfTwoArraysTest" />
+      <option name="METHOD_NAME" value="testIntersection" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -132,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IntersectionOfTwoArraysTest.testIntersection" />
+        <item itemvalue="Application.ValidPalindrome" />
         <item itemvalue="JUnit.EqualStacksTest.testEqualStacks" />
         <item itemvalue="JUnit.BinarySearchTest.testFindIndex" />
         <item itemvalue="JUnit.CanPlaceFlowersTest.testCanPlaceFlowers" />
-        <item itemvalue="JUnit.ValidMountainArrayTest.testValidMountainArray" />
-        <item itemvalue="JUnit.ThreeSumClosestTest.testClosestSum" />
       </list>
     </recent_temporary>
   </component>

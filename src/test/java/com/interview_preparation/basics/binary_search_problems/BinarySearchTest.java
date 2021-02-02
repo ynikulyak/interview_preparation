@@ -1,5 +1,6 @@
-package com.interview_preparation.basics;
+package com.interview_preparation.basics.binary_search_problems;
 
+import com.interview_preparation.basics.binary_search_problems.BinarySearch;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

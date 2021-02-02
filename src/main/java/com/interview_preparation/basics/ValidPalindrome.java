@@ -4,7 +4,6 @@ package com.interview_preparation.basics;
  * Note: For the purpose of this problem, we define empty string as valid palindrome.
  */
 public class ValidPalindrome {
-
     /**
      * Check if a string is a palindrome.
      * Since the input string contains characters that we need to ignore in our palindromic check,
