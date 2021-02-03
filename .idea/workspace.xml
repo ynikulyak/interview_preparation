@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c3aac75-e2b2-4c99-9ae0-761d60906ca3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/IntersectionOfTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/binary_search_problems/FindFirstAndLastPositionOfElementInSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/binary_search_problems/FindMinInRotatedSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/binary_search_problems/FirstBadVersion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/binary_search_problems/GuessNumberHigherOrLower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/binary_search_problems/KthSmallestElementInSortedMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/binary_search_problems/Search2DMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/IntersectionOfTwoArraysTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/binary_search_problems/FindFirstAndLastPositionOfElementInSortedArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/binary_search_problems/FindMinInRotatedSortedArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/binary_search_problems/GuessNumberHigherOrLowerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/binary_search_problems/KthSmallestElementInSortedMatrixTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/binary_search_problems/Search2DMatrixTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/binary_search_problems/SearchInRotatedSortedArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/IntersectionOfTwoArrays2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/IntersectionOfTwoArray2Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/binary_search_problems/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/interview_preparation/basics/ValidPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/BinarySearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/interview_preparation/basics/binary_search_problems/BinarySearchTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +43,7 @@
       <recent name="com.interview_preparation.basics" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.IntersectionOfTwoArraysTest.testIntersection">
+  <component name="RunManager" selected="JUnit.IntersectionOfTwoArray2Test.testIntersectionWithHashMap">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -94,22 +79,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CanPlaceFlowersTest.testCanPlaceFlowers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EqualStacksTest.testEqualStacks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="interview_preparation" />
       <option name="PACKAGE_NAME" value="com.interview_preparation.basics" />
-      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.CanPlaceFlowersTest" />
-      <option name="METHOD_NAME" value="testCanPlaceFlowers" />
+      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.EqualStacksTest" />
+      <option name="METHOD_NAME" value="testEqualStacks" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualStacksTest.testEqualStacks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IntersectionOfTwoArray2Test.testIntersectionWithHashMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="interview_preparation" />
       <option name="PACKAGE_NAME" value="com.interview_preparation.basics" />
-      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.EqualStacksTest" />
-      <option name="METHOD_NAME" value="testEqualStacks" />
+      <option name="MAIN_CLASS_NAME" value="com.interview_preparation.basics.IntersectionOfTwoArray2Test" />
+      <option name="METHOD_NAME" value="testIntersectionWithHashMap" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -145,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IntersectionOfTwoArray2Test.testIntersectionWithHashMap" />
         <item itemvalue="JUnit.IntersectionOfTwoArraysTest.testIntersection" />
         <item itemvalue="Application.ValidPalindrome" />
         <item itemvalue="JUnit.EqualStacksTest.testEqualStacks" />
         <item itemvalue="JUnit.BinarySearchTest.testFindIndex" />
-        <item itemvalue="JUnit.CanPlaceFlowersTest.testCanPlaceFlowers" />
       </list>
     </recent_temporary>
   </component>
